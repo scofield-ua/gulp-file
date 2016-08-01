@@ -1,0 +1,11 @@
+{  
+	"devDependencies": {
+		"gulp": "latest",
+		"gulp-stylus": "latest",
+		"gulp-uglify": "latest",
+		"gulp-concat": "latest",
+		"gulp-cssmin": "latest",
+		"gulp-minify": "latest",
+		"gulp-ignore": "latest"
+	}
+}
