@@ -26,5 +26,5 @@ gulp.task('css', ['stylus'], function() {
 });
 
 gulp.task('watch', ['css'], function() {
-    gulp.watch('resources/assets/stylus/*.styl', ['css']);
+    gulp.watch('resources/assets/stylus/**/*.styl', ['css']);
 });
