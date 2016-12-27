@@ -4,6 +4,7 @@ var gulp = require('gulp'),
     concat = require('gulp-concat'),
     cssmin = require('gulp-cssmin'),
     minify = require('gulp-minify'),
+    sass = require('gulp-sass'),
     gulpIgnore = require('gulp-ignore');
 
 gulp.task('stylus', function() {
